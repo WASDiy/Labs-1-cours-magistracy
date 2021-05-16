@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vladislav\\.nuget\\packages\\": {}
+    "C:\\Users\\vlad_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vladislav\\source\\repos\\Экспертные системы\\Лабораторная работа №1\\Лабораторная работа №1\\Лабораторная работа №1.csproj",
+      "projectUniqueName": "C:\\Users\\vlad_\\OneDrive\\Рабочий стол\\Для разработки\\Labs-1-cours-magistracy\\Methodology\\Лабораторная работа №1\\Лабораторная работа №1\\Лабораторная работа №1.csproj",
       "projectName": "Лабораторная работа №1",
-      "projectPath": "C:\\Users\\Vladislav\\source\\repos\\Экспертные системы\\Лабораторная работа №1\\Лабораторная работа №1\\Лабораторная работа №1.csproj",
-      "packagesPath": "C:\\Users\\Vladislav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vladislav\\source\\repos\\Экспертные системы\\Лабораторная работа №1\\Лабораторная работа №1\\obj\\",
+      "projectPath": "C:\\Users\\vlad_\\OneDrive\\Рабочий стол\\Для разработки\\Labs-1-cours-magistracy\\Methodology\\Лабораторная работа №1\\Лабораторная работа №1\\Лабораторная работа №1.csproj",
+      "packagesPath": "C:\\Users\\vlad_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vlad_\\OneDrive\\Рабочий стол\\Для разработки\\Labs-1-cours-magistracy\\Methodology\\Лабораторная работа №1\\Лабораторная работа №1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vladislav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vlad_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

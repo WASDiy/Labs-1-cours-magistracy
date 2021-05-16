@@ -19,3 +19,24 @@ C:\Users\Vladislav\source\repos\Экспертные системы\Лабора
 C:\Users\Vladislav\source\repos\Экспертные системы\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная_работа__1.HelloForm.resources
 C:\Users\Vladislav\source\repos\Экспертные системы\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная_работа__1.MainForm.resources
 C:\Users\Vladislav\source\repos\Экспертные системы\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная_работа__1.Properties.Resources.resources
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\net5.0-windows\Лабораторная работа №1.exe
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\net5.0-windows\Лабораторная работа №1.deps.json
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\net5.0-windows\Лабораторная работа №1.runtimeconfig.json
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\net5.0-windows\Лабораторная работа №1.runtimeconfig.dev.json
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\net5.0-windows\Лабораторная работа №1.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\net5.0-windows\ref\Лабораторная работа №1.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\bin\Debug\net5.0-windows\Лабораторная работа №1.pdb
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.csprojAssemblyReference.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная_работа__1.AuthorizationForm.resources
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная_работа__1.HelloForm.resources
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная_работа__1.MainForm.resources
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная_работа__1.Properties.Resources.resources
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.csproj.GenerateResource.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.AssemblyInfoInputs.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.AssemblyInfo.cs
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.csproj.CoreCompileInputs.cache
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\ref\Лабораторная работа №1.dll
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.pdb
+C:\Users\vlad_\OneDrive\Рабочий стол\Для разработки\Labs-1-cours-magistracy\Methodology\Лабораторная работа №1\Лабораторная работа №1\obj\Debug\net5.0-windows\Лабораторная работа №1.genruntimeconfig.cache
